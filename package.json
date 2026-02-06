@@ -1,7 +1,14 @@
 {
-  "name": "template-astro-empty",
+  "name": "template-astro-basic",
+  "description": "Astro basic template with autoprefixer, paths shortcuts, global base css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uniboxx/template-astro-basic.git"
+  },
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Davide Pedrotti <unibox@duck.com> (https://davidepedrotti.it)",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
