@@ -13,6 +13,12 @@
     "astro-icon": "^1.1.5"
   },
   "devDependencies": {
-    "@iconify-json/mdi": "^1.2.3"
-  }
+    "@iconify-json/mdi": "^1.2.3",
+    "autoprefixer": "^10.4.24"
+  },
+  "browserslist": [
+    ">5%",
+    "defaults and fully supports es6-module",
+    "maintained node versions"
+  ]
 }
